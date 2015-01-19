@@ -1,0 +1,144 @@
+.pb-responsive-column-a{
+direction: rtl;
+}
+ul.pb-layout.pb-main {
+    direction: rtl;
+}
+.pb-feature.pb-feature-icon-position-left ul > li > div > .pb-feature-icon {
+    float: right;
+    margin: 0px 0px 20px 10px;
+}
+.pb-layout-column-left{
+    float: right !important;
+}
+
+.pb-layout-column-right{
+    float: left !important;
+}
+.caroufredsel_wrapper{
+    clear: both;
+}
+/*for crouseling creating a sand box*/
+.caroufredsel_wrapper ul.pb-layout.pb-main {
+    direction: ltr;
+}
+.caroufredsel_wrapper ul.pb-layout.pb-main li{
+    float: left !important;
+}
+.caroufredsel_wrapper .pb-feature.pb-feature-icon-position-left ul > li > div > .pb-feature-icon {
+    float: right;
+    margin: 0px 0px 20px 10px;
+}
+.caroufredsel_wrapper .pb-layout-column-left{
+    float: left !important;
+}
+
+.caroufredsel_wrapper .pb-layout-column-right{
+    float: left !important;
+}
+/*end*/
+
+.menu-item {text-align: right;direction: rtl;}
+
+.pb .pb-layout-25x75 > .pb-layout-column-left ,.pb .pb-layout-25x75 > .pb-layout-column-right {
+    margin:0px!important;
+}
+.pb-social-icon{float: left !important;}
+
+.pb-logo img {
+    float: right;
+}
+.pb-menu-logo .pb-menu > ul.sf-menu > li {
+    float: right;
+}
+
+div.pb-list.pb-list-43127BC1C2C200F509F8B7138B145B73 ul li {
+    background-position: right;
+    padding-right: 25px;
+}
+.pb-recent-post > ul > li div.pb-recent-post-meta > div.pb-recent-post-meta-author ,
+.pb-recent-post > ul > li div.pb-recent-post-meta > div.pb-recent-post-meta-category {
+    background-position: right;
+    float: right;
+    padding-right: 15px;
+}
+.pb-testimonial ul > li > div > div.pb-testimonial-cite-up {
+    float: right;
+}
+.pb-testimonial ul > li > div > div.pb-testimonial-cite-down {
+    float: left;
+}
+.pb-testimonial-author-position-company ,
+.pb-testimonial-author-name{
+    text-align: right;
+}
+
+.pb-header-subheader .pb-header .pb-header-content {
+    text-align: right;
+    padding-right: 10px;
+}
+.pb-text{
+    padding: 0px 10px 0px 0px !important;
+    width: 100%;
+}
+.pb-list{
+    padding-right: 10px;
+    float: none;
+    clear: both;
+}
+.pb-feature-content p{margin-right: 91px;}
+.pb-layout-responsive-0 .pb-feature-content p{margin-right: 0px !important;}
+.pb .pb-layout-33x33x33 > .pb-layout-column-left, .pb .pb-layout-33x33x33 > .pb-layout-column-center {
+
+    margin-right: 0px !important;
+}
+.pb-accordion .ui-accordion-header a span {
+    float: left;
+}
+.pb-call-to-action .pb-call-to-action-box > .pb-call-to-action-box-first-line, .pb-call-to-action .pb-call-to-action-box > .pb-call-to-action-box-second-line {
+    float: right;
+}
+.pb-call-to-action .pb-call-to-action-box > div > a {
+    left: 0px;
+}
+.pb .pb-layout-33x66 > .pb-layout-column-right {
+    width: 61.577%;
+}
+.ui-accordion-icons,.pb-header-content,.theme-main{
+    direction: rtl;
+}
+.pb-feature.pb-feature-icon-position-left.pb-feature-icon-size-small ul > li > div > .pb-feature-header, .pb-feature.pb-feature-icon-position-left.pb-feature-icon-size-small ul > li > div > .pb-feature-content {
+    margin-left: 0px;
+}
+.theme-widget-post-meta >div{
+    float: right;
+    text-align: right;
+}
+.theme-clear-fix{
+    text-align: right;
+}
+.widget_theme_widget_post_recent > div ul > li > div.theme-widget-post-meta > div.theme-widget-post-meta-date, .widget_theme_widget_post_most_comment > div ul > li > div.theme-widget-post-meta > div.theme-widget-post-meta-date, .widget_theme_widget_post_recent > div ul > li > div.theme-widget-post-meta > div.theme-widget-post-meta-comment-count, .widget_theme_widget_post_most_comment > div ul > li > div.theme-widget-post-meta > div.theme-widget-post-meta-comment-count {
+    float: right;
+}
+.widget_theme_widget_post_recent > div ul > li > div.theme-widget-post-meta > div.theme-widget-post-meta-date, .widget_theme_widget_post_most_comment > div ul > li > div.theme-widget-post-meta > div.theme-widget-post-meta-date {
+    margin-right: 0px;
+}
+.pb .pb-layout-33x33x33 > .pb-layout-column-left, .pb .pb-layout-33x33x33 > .pb-layout-column-center {
+    margin-right: 20px !important;
+}
+.pb-call-to-action .pb-call-to-action-box > div > a {
+    left: 0px !important;
+    right: auto !important;
+}
+.theme-footer ul > li {
+    background-image: none;
+}
+.theme-carousel-pagination-next{
+    left: 23px;
+    right: auto;
+}
+.theme-carousel-pagination-prev{
+    left: 0px;
+    right: auto;
+}
+
